@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+file - 02 
+change file 2 in master brach 
+=======
+file - 02 - edit
+>>>>>>> bugfix/login-issue
